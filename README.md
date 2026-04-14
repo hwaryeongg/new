@@ -5,7 +5,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-- **Name:** [본인 성함 입력]
+- **Name:** [kim hye min]
 - **Focus:** UE5 C++ & AI-Driven Game Development
 - **Goal:** 시스템 구조가 탄탄하고 재미있는 코어 루프를 가진 게임 설계
 
